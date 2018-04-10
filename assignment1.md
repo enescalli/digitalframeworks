@@ -1,6 +1,6 @@
 # Critiques of the Chicago Tribune’s Data Story on Shootings in Chicago
 
-Shooting in Chicago is one of the most popular data stories for media outlets but the Chicago Tribune’s  data story is one of the best I have seen recently. The Chicago Tribune uses data to show how many people have been shot in 2018 so far. The audience can have comparative information on number of shootings periodically that occurred between 2012 and 2018.  
+Shooting in Chicago is one of the most popular data stories for media outlets but the Chicago Tribune’s [data story](http://www.chicagotribune.com/news/data/ct-shooting-victims-map-charts-htmlstory.html) is one of the best I have seen recently. The Chicago Tribune uses data to show how many people have been shot in 2018 so far. The audience can have comparative information on number of shootings periodically that occurred between 2012 and 2018.  
 
 ## Infographic makes the story more useful to obtain detailed information for audiences
 
