@@ -10,3 +10,5 @@ Here are the features I'll be collecting, and an explanation of why:
 
 I will collect data from “multeciler.com” which is one of the reliable websites provides detailed information about refugees in Turkey. I will use yenisafak.com ( the Turkish newspaper ‘s website) to find election results in those 5 cities in last election. 
 I will do research in Turkish media outlets such as Sabah Yenisafak and Aksam and Turkish state news agency’s online archive to find the number of hate crime incidents against Syrian refugees.
+
+Here you can reach my dataset: https://docs.google.com/spreadsheets/d/1zJYtzYb1JRNy2YBfca6zEJe-F0l5WQwKCRvnj0HLIxI/edit#gid=0 
