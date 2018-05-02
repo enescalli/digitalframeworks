@@ -18,7 +18,7 @@ The link for the table of payment made to Trump for general election in 2020:
 
 https://docs.google.com/spreadsheets/d/1oCJ0QrHJj3NyJc_FCSUZM02qoFXXyU7HUdxPq6-r1tQ/edit#gid=0
 
-The link for the total payment of Trump Make America Great Again Committee made total to Donald Trump for both primary and general election:
+The link for the total payment of Trump Make America Great Again Committee made to Donald Trump for both primary and general election:
 
 https://docs.google.com/spreadsheets/d/1B344zt_XRTrONvTP5eUeQKjT67AcAkfLveVMwmtNEJE/edit#gid=0
 
