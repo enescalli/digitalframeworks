@@ -5,7 +5,7 @@ I have collected data about the history of general election results from  the Tu
 
 The graph provides information about the average percentage of these four political ideologies in the ballots which will be helpful to understand Turkish voters’ choices since 1950 reflecting on general election results. 
 
-Despite some unpredictable results in the history of general elections, it will be informative to know the average percentage of votes for ideologies in Turkey which have been existed since 1950’s. In the history of Turkish democracy, some political parties disappeared, some  were shut down by the Turkish state, but there have been always political parties that represent those four those main political ideologies. Therefore, this graph will be helpful to make better predictions for the snap election. For instance, this graph indicates that center-right parties have always been the favorite for the voters and it will not be surprising, if the current center-right party AKP wins the snap election, according to the graph.
+Despite some unpredictable results in the history of general elections, it will be informative to know the average percentage of votes for ideologies in Turkey which have been existed since 1950’s. In the history of Turkish democracy, some political parties disappeared, some  were shut down by the Turkish state, but there have been always political parties that represent those main political ideologies. Therefore, this graph will be helpful to make better predictions for the snap election. For instance, this graph indicates that center-right parties have always been the favorite for the voters and it will not be surprising, if the current center-right party AKP wins the snap election, according to the graph.
 
 
 
